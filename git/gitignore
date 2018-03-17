@@ -45,3 +45,11 @@ Session.vim
 # SASS
 # ----------------------------------------------------------------------------------------------
 .sass-cache
+
+# OTHERS
+.tool-versions
+.nvmrc
+.codekit-config.json
+.vscode
+Icon?
+.keep

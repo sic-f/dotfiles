@@ -61,6 +61,9 @@ map ,` ysiw`
 " gary bernhardt's hashrocket
 imap <c-l> <space>=><space>
 
+" kiko's elixir fn rocket
+imap <c-y> <space>-><space>
+
 "Go to last edit location with ,.
 nnoremap ,. '.
 
